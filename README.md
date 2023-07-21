@@ -21,8 +21,3 @@ Key features of the Room Reservation System:
 Whether you are a hotel manager seeking a reliable room reservation system or a traveler planning your next stay, this Room Reservation System promises to streamline the reservation process and enhance overall efficiency. So, dive in and experience the convenience and simplicity of this powerful yet easy-to-use C++ program for managing your room reservations!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Contributors:
-Landicho, Alyssa
-Padua, Justine
-Pagcaliuangan, Kent Melard D.
